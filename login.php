@@ -11,7 +11,7 @@ session_start();
 		<link href="css/bootstrap.css" rel="stylesheet">
 		<link href="css/signin.css" rel="stylesheet">
 	</head>
-	<style>img[alt="www.000webhost.com"]{display:none;}</style>
+	
 	<body>
 		<div class="container">
 			<div class="form-signin" style="background: #6699FF; ">
